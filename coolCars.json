@@ -1,0 +1,17 @@
+[
+    {
+      "make": "Ford",
+      "model": "Mustang",
+      "coolness": 1000
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "coolness": 650
+    },
+    {
+      "make": "Toyota",
+      "model": "Rav4",
+      "coolness": 300
+    }
+  ]
